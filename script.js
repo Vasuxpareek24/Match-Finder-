@@ -8,7 +8,7 @@ const fixedMatches = {
     "Amit": "Sakshi ❤️",
     "Manish": "Isha ❤️",
     "Rajesh": "Riya ❤️",
-    "Suresh": "Pooja ❤️"
+    "Ishika": "Hemant ❤️"
 };
 
 // ✅ 100 Indian Names List
